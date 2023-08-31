@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Eu sou o Vithor Saito 🙋‍♂️
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vithor-saito/)
 
-<!--
-**DevVithor/DevVithor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Saito GitHub stats](https://github-readme-stats.vercel.app/api?username=DevVithor&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+## Tecnologias que eu uso no meu dia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+ <img align ="center" alt="Python" src=" https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img align = "center" alt="MySQL" src=" https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div><br/>
+
+Com determinação, estou trilhando meu caminho na programação, explorando os métodos ágeis para criar soluções inovadoras e impactantes.
+
+## Email para contato:
+
+[![Gmail Vithor](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://vithorsaito2@gmail.com/)
