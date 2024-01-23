@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vithor Saito 🙋‍♂️
 
 ![Saito GitHub stats](https://github-readme-stats.vercel.app/api?username=DevVithor&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevVithor&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
