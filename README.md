@@ -2,7 +2,7 @@
 
 ### Sobre mim 👨‍💻
 
-Sou um desenvolvedor back-end apaixonado por **resolver problemas complexos** e construir **aplicações robustas e escaláveis**. Meu foco está na criação de sistemas eficientes, seguros e bem arquitetados, sempre seguindo boas práticas como **SOLID e Clean Architecture**.  
+Sou um desenvolvedor apaixonado por **resolver problemas complexos** e construir **aplicações robustas e escaláveis**. Meu foco está na criação de sistemas eficientes, seguros e bem arquitetados, sempre seguindo boas práticas.  
 
 Estou constantemente explorando **novas tecnologias** e aprimorando minhas habilidades para oferecer soluções cada vez mais otimizadas. Acredito que um bom desenvolvedor não apenas escreve código funcional, mas também busca a melhor abordagem para cada desafio.  
 
