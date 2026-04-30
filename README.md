@@ -19,7 +19,7 @@ Estou constantemente explorando **novas tecnologias** e aprimorando minhas habil
 
 |        **📦 Projeto**        |  **📜 Stack** |  **🗃️ Arquitetura / Padrões** | **🛠️ Tecnologias**  | **📫 Status** |
 |-----------------|------------------|--------------------|--------------|-------------------------------------|
-| Retrieval Argument Generation | TS + Node | Arquitetura Hexagonal + Arquitetura Limpa | AWS(EC2), WebSocket, Redis, Fastify, OpenAI |  Em andamento |
+| Retrieval Argument Generation | TS + Node | Arquitetura Limpa | AWS(EC2), WebSocket, Redis, Fastify, OpenAI |  Em andamento |
 
 ## Ferramentas ⚙️
 
