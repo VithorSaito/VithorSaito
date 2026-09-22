@@ -9,7 +9,7 @@
 
 ## Sobre mim 👨‍💻
 
-Atualmente sou Desenvolvedor Pleno na <a href='https://superfestval.com.br/'>Rottas Construtora</a> trabalhando com NodeJS utilizando TypeScript como linguagem principal.
+Atualmente sou Desenvolvedor Pleno na <a href='https://rottasconstrutora.com.br/'>Rottas Construtora</a> trabalhando com NodeJS utilizando TypeScript como linguagem principal.
 
 Nos 2,5 anos, atuei majoritariamente no desenvolvimento backend, contribuindo para a construção de integrações, APIs REST e microserviços, sempre focado em performance, escalabilidade e boas práticas de arquitetura.
 
